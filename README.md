@@ -26,6 +26,11 @@ This project was developed with the technologies below:
 <p align="start">
 The project was made to develop the skills with CSS </p>
 
+## 🚀 Link
+
+<link href:"https://gustavozonta.github.io/pics-jobs-css-grid/">   
+
+
 ## :memo: License
 
 This project is above the MIT license.
