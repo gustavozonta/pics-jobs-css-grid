@@ -28,7 +28,7 @@ The project was made to develop the skills with CSS </p>
 
 ## 🚀 Link
 
-<link href:"https://gustavozonta.github.io/pics-jobs-css-grid/">   
+<link href="https://gustavozonta.github.io/pics-jobs-css-grid/" >   
 
 
 ## :memo: License
